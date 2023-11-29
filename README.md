@@ -21,3 +21,5 @@ Las técnicas de minería de datos y aprendizaje automático se utilizan ampliam
 la detección de fraudes con tarjetas de crédito.
 \
 COMENCEMOS :)
+
+Link al drive con archivo csv crudo (https://drive.google.com/file/d/19zBoYjXAI3MW0-0fT8wDjjD_RFfaXBLh/view?usp=sharing)
